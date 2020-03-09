@@ -37,7 +37,10 @@ end
 def total_gross(source)
   
   dir_gross = directors_totals(source)
-  names
+  dir_names = list_of_directors(source)
+  i = 0 
+  
+  while i < di
   
   # Write this implementation
   #
