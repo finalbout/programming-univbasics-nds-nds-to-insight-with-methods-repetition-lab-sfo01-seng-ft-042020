@@ -40,7 +40,8 @@ def total_gross(source)
   dir_names = list_of_directors(source)
   i = 0 
   
-  while i < di
+  while i < dir_names.length do 
+    
   
   # Write this implementation
   #
