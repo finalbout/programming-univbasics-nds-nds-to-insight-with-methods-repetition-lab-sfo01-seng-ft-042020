@@ -40,8 +40,13 @@ def total_gross(source)
   dir_names = list_of_directors(source)
   i = 0 
   
+  result = 0 
+  
   while i < dir_names.length do 
+    updated_names = dir_names[i]
+    result += dir_gross[updated_names]
     
+    i +=1
   
   # Write this implementation
   #
