@@ -36,6 +36,8 @@ result
 end
 def total_gross(source)
   
+  dir_gross = directors_totals(source)
+  names
   
   # Write this implementation
   #
